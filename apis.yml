@@ -2,7 +2,7 @@ aid: jazz-pharmaceuticals
 url: https://raw.githubusercontent.com/api-evangelist/jazz-pharmaceuticals/refs/heads/main/apis.yml
 name: Jazz Pharmaceuticals
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Pharmaceuticals
   - Neuroscience
@@ -17,7 +17,7 @@ apis:
     tags:
       - Pharmaceuticals
       - Neuroscience
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.jazzpharma.com
     humanURL: https://developer.jazzpharma.com
     properties:
