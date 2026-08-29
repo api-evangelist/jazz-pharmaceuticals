@@ -2,6 +2,17 @@ aid: jazz-pharmaceuticals
 url: https://raw.githubusercontent.com/api-evangelist/jazz-pharmaceuticals/refs/heads/main/apis.yml
 name: Jazz Pharmaceuticals
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
